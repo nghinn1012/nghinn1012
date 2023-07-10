@@ -13,10 +13,10 @@
   </a> -->
 </div>
 
-# _____________________________________________________________
+
 <div align="center"> I'm a 2nd-student at VNU University of Engineering and Technology.  </div>
 
-<div align="center">
+<div align="center"> 
 ____________________________________________
 
 ### Contributions 📈

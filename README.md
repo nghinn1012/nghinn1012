@@ -15,17 +15,14 @@
 
 # ________________________________________________________________________
 
-<div align="center">  </div>
+<div align="center"> I'm a 2nd-student at VNU University of Engineering and Technology.  </div>
 
 <div align="center">
 ____________________________________________
 
-## 
-
- </div>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghinn1012&show_icons=true&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghinn1012&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=12&theme=)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhsusu03&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)          
-                             
+### Contributions 📈
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nghinn1012&show_icons=true&theme=onedark&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nghinn1012&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghinn1012&langs_count=8&theme=onedark&hide_border=true&layout=compact" />
+</p>

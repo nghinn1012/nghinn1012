@@ -24,7 +24,8 @@ ____________________________________________
 
  </div>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghinn1012&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghinn1012&layout=compact&size_weight=0.5&count_weight=1&langs_count=12&theme=)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghinn1012&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghinn1012&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=12&theme=)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhsusu03&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)          
                              

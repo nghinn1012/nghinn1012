@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<div align="center"> I'm a 3rd-student at VNU University of Engineering and Technology.  </div>
+<div align="center"> I'm a final year student at VNU University of Engineering and Technology.  </div>
 
 <div align="center"> 
 ____________________________________________
